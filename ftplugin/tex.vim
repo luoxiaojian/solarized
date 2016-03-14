@@ -1,0 +1,2 @@
+imap {} {}<Left>
+imap $$ $$<Left>
